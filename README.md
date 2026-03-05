@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Samriddhi
+I started designing UI/UX in my first year of college mostly out of curiosity, and somehow never stopped.
+Since then I’ve been exploring the intersection of design, machine learning, and agentic AI — understanding both how systems work and how humans interact with them.
+I like exploring how systems think, how people interact with them, and how good design and idea can make that interaction feel natural.
+At one point I even wandered into CAD design — because sometimes the brain wants to design physical things too.
